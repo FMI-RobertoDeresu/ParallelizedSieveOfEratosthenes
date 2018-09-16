@@ -10,7 +10,7 @@ Avem n procese, din care 1 de tip master si n-1 de tip slave:
    - Proces de tip slave - determina numarele prime de tip Mersenne din ultimele (n-1) subintervale.
    - Proces master - determina numarele prime de tip Mersenne din primul subinterval, si le reuneste cu rezultatele de la procesele de tip slave. Dupa determinarea numarelor prime de tip Mersenne aplica pentru fiecare teorema lui Euclid–Euler pentru a determina numerele perfecte.
 
-Exemplu: <br />
+### Exemplu: <br />
 Notatie: P - proces. <br />
 Pentru n = 5 si val_max = 25
 
